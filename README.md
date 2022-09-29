@@ -1,5 +1,10 @@
 # Automated Test Case Allocation
 
+## Group Members
+
+1. Ahsan Hamid (1812218)
+2. Sunila Zulfiqar (1812248)
+
 ## How To Install?
 1. `git clone https://github.com/King-Fisher-San/ATCA---BackEnd`
 2. `cd ATCA---BackEnd`
